@@ -20,6 +20,9 @@ body {
     background-color: #dfdfdf;
     color: #9f9f9f; }
 
+.brand-logo {
+  margin-left: 10px; }
+
 /** TRENDS PAGE **/
 .book-entry {
   padding: 3%;
